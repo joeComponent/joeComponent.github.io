@@ -3,8 +3,18 @@
 ### Developer Services
 
 Do you need custom software development? or the services of a professional developer?
-Link to my sample web pages, which also serves as a kind-of resume... [Developer](surveyorCraft.com/developer).
+Link to my coding sample web pages, which also serves as a kind-of resume... [Developer](surveyorCraft.com/developer).
 
+
+
+### SurveyorCraft software
+
+The SurveyorCraft 4.0 Home page development is in progress.
+
+GitHub Links
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[repository settings](https://github.com/joeComponent/joeComponent.github.io/settings). theme is saved in the Jekyll `_config.yml` configuration file.
+[documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact)
 ```markdown
 
 # Header 1
@@ -21,13 +31,3 @@ Link to my sample web pages, which also serves as a kind-of resume... [Developer
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joeComponent/joeComponent.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

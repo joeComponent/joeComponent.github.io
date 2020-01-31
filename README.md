@@ -1,15 +1,11 @@
-## Welcome to joeComponent Pages
+## Welcome to SurveyorCraft
 
-You can use the [editor on GitHub](https://github.com/joeComponent/joeComponent.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Developer Services
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Do you need custom software development? or the services of a professional developer?
+Link to my sample web pages, which also serves as a kind-of resume... [Developer](surveyorCraft.com/developer).
 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
